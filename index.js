@@ -1,5 +1,5 @@
 function wakeDog() {
-  const dogName = "Xerox";
+  const dogName = "Skippy";
   const dogBreed = "Border Collie";
   return(`Wake ${dogName} the ${dogBreed}`);
 }
